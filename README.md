@@ -4,20 +4,17 @@ An implementation of binomial expansion of fractional powers in python. Written 
 ## Authors
 
 - [@louboi](https://github.com/louboi)
+  - The main calculating functions
 - [@alan-the-armadillo](https://github.com/alan-the-armadillo)
+  - The fractional conversion class
 
 ## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
+1. Download all python files.
+2. connect the calculator to the computer as needed
+3. Copy the files across 
     
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+ - [MicroPython v1.9.4 documentation](https://docs.micropython.org/en/v1.9.4/pyboard/index.html)
+ - 
