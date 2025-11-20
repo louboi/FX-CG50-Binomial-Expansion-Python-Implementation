@@ -6,7 +6,7 @@ An implementation of binomial expansion of fractional powers in python. Written 
 - [@louboi](https://github.com/louboi)
   - The main calculating functions
 - [@alan-the-armadillo](https://github.com/alan-the-armadillo)
-  - The fractional conversion class
+  - The inventor of fractions
 
 ## Installation
 
